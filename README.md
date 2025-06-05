@@ -2,13 +2,11 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryndye&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryndye&theme=tokyonight" alt="GitHub Streak" />
- <!--- <img src="https://streak-stats.demolab.com/?user=GuillaumeLecomte1&theme=tokyonight" alt="GitHub Streak" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryndye&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryndye&theme=dark" alt="GitHub Streak" />
 </div>
-<!---[![GitHub Streak](https://streak-stats.demolab.com/?user=GuillaumeLecomte1)](https://git.io/streak-stats)-->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryndye&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryndye&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 <!--
 **Bryndye/Bryndye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
